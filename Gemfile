@@ -44,7 +44,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'active_model_serializers'
 
 #database cleaner
-gem 'database_cleaner'
+# gem 'database_cleaner'
 
 #JSON Web Token
 gem 'jwt'
